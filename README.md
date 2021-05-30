@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @pakoti
+- 👀 I’m interested in Django,API's,*nix
+- 🌱 I’m currently learning Django,API's,*nix
+- 💞️ I’m looking to collaborate on Open source Projects
