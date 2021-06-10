@@ -10,7 +10,7 @@
 
 - 📝 I regularly write articles on [pakoti.github.io](pakoti.github.io)
 
-- 💬 Ask me about **Python,Django**
+- 💬 Ask me about **Python,Django,System Administration**
 
 - ⚡ Fun fact **OpenBSD is The coolest BSD!**
 
