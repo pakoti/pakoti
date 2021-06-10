@@ -6,6 +6,8 @@
 
 - 🌱 I’m currently learning **Django,Flask,Web Scrapping,Erlang**
 
+- - 🤝 I’m looking for help with [Building Blog with Django](https://github.com/pakoti/Django_blog)
+
 - 👯 I’m looking to collaborate on **Open-source Software**
 
 - 📝 I regularly write articles on [pakoti.github.io](pakoti.github.io)
