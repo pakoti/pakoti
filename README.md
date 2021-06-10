@@ -1,6 +1,6 @@
 <h3 align="center">A passionate System Administrator,Backend developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pakoti&label=Profile%20views&color=0e75b6&style=flat" alt="pakoti" /> </p>
+
 
 - 🔭 I’m currently working on [Building Blog with Django](https://github.com/pakoti/Django_blog)
 
