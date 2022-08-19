@@ -1,4 +1,4 @@
-<h3 align="center">A passionate System Administrator,Backend developer</h3>
+<h3 align="center">A passionate Network Engineer</h3>
 
 
 
@@ -12,7 +12,7 @@
 
 - 📝 I regularly write articles on [pakoti.github.io](pakoti.github.io)
 
-- 💬 Ask me about **Python,Django,System Administration**
+- 💬 Ask me about **Python,Django,System Administration,Networking**
 
 - ⚡ Fun fact **OpenBSD is The coolest BSD!**
 
