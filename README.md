@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on Designing Networks
 
-- 📝 I regularly write articles on [Here](pakoti.github.io)
+- 📝 I regularly write articles on [Here](https://pakoti.github.io/index.html)
 
 - 💬 Ask me about **System Administration,Networking,Designing Elecronic Systems**
 
