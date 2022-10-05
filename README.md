@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [To be an Open-Source Developer]
 
-- 🌱 I’m currently learning **Django,Flask,Web Scrapping,Erlang**
+- 🌱 I’m currently learning **Django,Flask,Web Scrapping,Erlang,...**
 
 - 🤝 I’m looking for help with [Building Blog with Django](https://github.com/pakoti/Django_blog)
 
