@@ -2,7 +2,7 @@
 
 
 
-- 🔭 I’m currently working on [Building Blog with Django](https://github.com/pakoti/Django_blog)
+- 🔭 I’m currently working on [To be an Open-Source Developer]
 
 - 🌱 I’m currently learning **Django,Flask,Web Scrapping,Erlang**
 
