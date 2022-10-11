@@ -1,20 +1,10 @@
 <h3 align="center">A passionate Network Engineer</h3>
 
 
-
-- 🔭 I’m currently working on [To be an Open-Source Developer]
-
-- 🌱 I’m currently learning **Django,Flask,Web Scrapping,Erlang,...**
-
-- 🤝 I’m looking for help with [Building Blog with Django](https://github.com/pakoti/Django_blog)
-
-- 👯 I’m looking to collaborate on Designing Networks
-
-- 📝 I regularly write articles on [Here](https://pakoti.github.io/blog.html)
-
-- 💬 Ask me about **System Administration,Networking,Designing Elecronic Systems**
-
-- ⚡ Fun fact **OpenBSD is The coolest BSD!**
+-I’m currently working on [To be an Open-Source Developer]
+-I’m currently learning **Django,Flask,Web Scrapping,Erlang,...**
+-I also have a [Blog](https://pakoti.github.io/blog.html)
+-Ask me about **System Administration,Networking,Designing Elecronic Systems**
 
 
 <h3 align="left">Languages and Tools:</h3>
