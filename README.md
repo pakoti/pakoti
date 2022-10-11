@@ -9,6 +9,8 @@
 
 -Ask me about **System Administration,Networking,Designing Elecronic Systems**
 
+-Here is My [CV](https://pakoti.github.io/cv.html)
+
 
 
 <h3 align="left">Languages and Tools:</h3>
