@@ -2,9 +2,13 @@
 
 
 -I’m currently working on [To be an Open-Source Developer]
--I’m currently learning **Django,Flask,Web Scrapping,Erlang,...**
+
+-I’m currently learning **Network Automation**
+
 -I also have a [Blog](https://pakoti.github.io/blog.html)
+
 -Ask me about **System Administration,Networking,Designing Elecronic Systems**
+
 
 
 <h3 align="left">Languages and Tools:</h3>
