@@ -5,7 +5,7 @@
 
 -I’m currently learning **Network Automation**
 
--I also have a [Blog](https://pakoti.github.io/blog.html)
+-I also have a [Blog](https://pakoti.github.io/)
 
 -Ask me about **System Administration,Networking,Designing Elecronic Systems**
 
