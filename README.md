@@ -5,12 +5,11 @@
 
 -I’m currently learning **Network Automation**
 
--I also have a [Blog](https://pakoti.github.io/)
-
 -Ask me about **System Administration,Networking,Designing Elecronic Systems**
 
 -Here is My [CV](https://pakoti.github.io/cv.html)
 
+-I also have a [Blog](https://pakoti.github.io/)
 
 
 <h3 align="left">Languages and Tools:</h3>
