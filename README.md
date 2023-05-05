@@ -1,11 +1,9 @@
-<h3 align="center">A passionate Network Engineer</h3>
+<h3 align="center">A passionate System Administrator</h3>
 
 
 -I’m currently working on [To be an Open-Source Developer]
 
--I’m currently learning **Network Automation**
-
--Ask me about **System Administration,Networking,Designing Elecronic Systems**
+-I’m currently learning **Devops**
 
 -Here is My [CV](https://pakoti.github.io/cv.html)
 
