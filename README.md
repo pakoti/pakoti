@@ -1,13 +1,9 @@
-<h3 align="center">NetWork Engineer</h3>
+<h3 align="center">Pakoti</h3>
 
 
--I’m currently working on [To be an Open-Source Developer]
+$whoami [CV](https://pakoti.github.io/cv.html)
 
--I’m currently learning **Devops**
-
--Here is My [CV](https://pakoti.github.io/cv.html)
-
--I also have a [Blog](https://pakoti.github.io/)
+cd [Blog](https://pakoti.github.io/)
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -15,4 +11,5 @@
 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pakoti&show_icons=true&locale=en&layout=compact" alt="pakoti" /></p>
+
 <p><img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=pakoti" /></p>
