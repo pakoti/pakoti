@@ -1,5 +1,5 @@
 <h3 align="center">Pakoti</h3>
-
+Hello! I’m Mohammad Ezzatzadeh, a dedicated network engineer with a deep passion for MikroTik networking devices and programming. My journey in the tech world has been an exciting one, and I thrive on creating efficient, secure, and reliable network infrastructures.
 
 $whoami [CV](https://pakoti.github.io/cv.html)
 
