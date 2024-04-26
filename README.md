@@ -7,7 +7,7 @@ $ [whoami](https://pakoti.github.io/cv.html)
 
 $cd [My_Blog](https://pakoti.github.io/)
 
-
+$cd [مقالات فارسی](https://virgool.io/@ezat)
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pakoti&show_icons=true&locale=en&layout=compact" alt="pakoti" /></p>
 
