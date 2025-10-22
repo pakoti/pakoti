@@ -21,34 +21,14 @@
 
 ### Tools & Frameworks:
 
+
 ## 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=pakoti&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
-
-## 🌟 Featured Projects
-
-### [Project Name](link)
-⭐ **Stars:** [number] | 🍴 **Forks:** [number]
-- Description of the project
-- Technologies used
-- Key features
-
-### [Another Project](link)
-⭐ **Stars:** [number] | 🍴 **Forks:** [number]
-- Description of the project
-- Technologies used
-- Key features
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pakoti&layout=compact&theme=radical)
 
 
-## 🔭 I'm currently working on
-- [Current project 1]
-- [Current project 2]
-
-## 🌱 I'm currently learning
-- [Technology/Language 1]
-- [Technology/Language 2]
 
 ---
 
