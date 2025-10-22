@@ -25,6 +25,21 @@ I create intelligent connected systems by combining my expertise in **electronic
 ![Networking](https://img.shields.io/badge/Networking-Systems-228B22?style=for-the-badge&logo=network&logoColor=white)
 
 
+
+## 🚀 Featured Projects
+
+### Pinned Repositories (Auto-stars)
+<div align="center">
+  
+[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=pakoti&repo=REPO_NAME&theme=radical)](https://github.com/YOUR_USERNAME/REPO_NAME)
+[![Mikrotik_Hero](https://github-readme-stats.vercel.app/api/pin/?username=pakotiE&repo=Mikrotik_Hero_NAME&theme=radical)](https://github.com/pakoti/Mikrotik_Hero)
+
+[![Repo 3](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=REPO_NAME&theme=radical)](https://github.com/YOUR_USERNAME/REPO_NAME)
+[![Repo 4](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=REPO_NAME&theme=radical)](https://github.com/YOUR_USERNAME/REPO_NAME)
+
+</div>
+
+
 ## 📊 GitHub Stats
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=pakoti&show_icons=true&theme=radical)
