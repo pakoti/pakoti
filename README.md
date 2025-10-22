@@ -1,8 +1,7 @@
 # Hi there, I'm Mohammad Ezzatzadeh! 👋
 
 ## 🚀 About Me
-[Brief introduction about yourself and what you do]
-
+I create intelligent connected systems by combining my expertise in **electronic circuit design**, **IoT networking**, and **system administration**. From designing custom PCBs to deploying scalable cloud infrastructure, I handle the complete lifecycle of embedded and connected products.
 
 ## 💻 Programming Languages & Technologies
 
