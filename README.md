@@ -28,6 +28,6 @@ I create intelligent connected systems by combining my expertise in **electronic
 
 ## 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=pakoti&show_icons=true&theme=radical) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pakoti&layout=compact&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=pakoti&show_icons=true&theme=radical)   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pakoti&layout=compact&theme=radical)
 
 
