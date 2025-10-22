@@ -20,6 +20,12 @@
 ![Rasberrypi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white)
 ![ARDUINO](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
+### Skills:
+![IoT](https://img.shields.io/badge/IoT-Expert-00B0FF?style=for-the-badge&logo=iot&logoColor=white)
+![Electronics](https://img.shields.io/badge/Electronics-Design-8A2BE2?style=for-the-badge&logo=circuit-diagram&logoColor=white)
+![Networking](https://img.shields.io/badge/Networking-Systems-228B22?style=for-the-badge&logo=network&logoColor=white)
+
+
 ## 📊 GitHub Stats
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=pakoti&show_icons=true&theme=radical)
